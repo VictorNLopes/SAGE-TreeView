@@ -53,8 +53,7 @@ Inno Setup - https://jrsoftware.org/isinfo.php
 
     3. Para Consulta e Filme, existe a opção de fazer um gráfico no menu Gráfico. Nesse caso se deve especificar os valores antes de abrir o menu de opções
         
-        ![passo_5_2](https://user-images.githubusercontent.com/69806937/138185456-58e1a837-7fab-497d-b5c6-6bc7fe312ff7.png)
-        ![passo_5_2_2](https://user-images.githubusercontent.com/69806937/138185459-e635487d-bc12-4176-915a-42e449f7520f.png)
+        ![passo_5_2](https://user-images.githubusercontent.com/69806937/138185456-58e1a837-7fab-497d-b5c6-6bc7fe312ff7.png) ![passo_5_2_2](https://user-images.githubusercontent.com/69806937/138185459-e635487d-bc12-4176-915a-42e449f7520f.png)
         
         ![passo_5_2_3](https://user-images.githubusercontent.com/69806937/138185460-467a96e6-9dc8-49d4-b836-b255dd837b33.png)
 
