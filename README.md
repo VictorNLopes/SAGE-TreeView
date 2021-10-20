@@ -33,5 +33,5 @@ Inno Setup - https://jrsoftware.org/isinfo.php
 5. Nas abas Alarmes, Consulta e Filme pode-se escolher um número de atributos e, ao clicar no botão consultar, observar os dados em questão em forma de tabela
     1. O intervalo de busca fica logo abaixo das abas
     2. Para Consulta e Filme, existe a opção de fazer um gráfico no menu Gráfico. Nesse caso se deve especificar os valores antes de abrir o menu de opções
-    3. É possível salvar salvar tanto a tabela quanto o gráfico
+    3. É possível salvar tanto a tabela quanto o gráfico
 
