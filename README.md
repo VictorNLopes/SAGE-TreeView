@@ -3,6 +3,7 @@ Aplicativo feito para acessar a base de dados do SAGE usando python
 
 ## Versão Atual
 1.0
+
 Instalador: https://drive.google.com/file/d/1s0VpAiJ7qoTcU7krgnQVZ2SRQAAiYTPj/view?usp=sharing
 
 ## Bibliotecas Externas
