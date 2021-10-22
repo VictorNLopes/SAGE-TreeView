@@ -4,7 +4,7 @@ Aplicativo feito para acessar a base de dados do SAGE usando python
 ## Versão
 1.0
 
-Instalador: https://drive.google.com/file/d/1s0VpAiJ7qoTcU7krgnQVZ2SRQAAiYTPj/view?usp=sharing
+Instalador: https://bit.ly/sage-treeview
 
 ## Bibliotecas Externas
 Psycopg2 - https://www.psycopg.org/
