@@ -405,7 +405,7 @@
               <item row="0" column="2">
                <widget class="QCheckBox" name="severity_check">
                 <property name="text">
-                 <string>Filtar por severidade</string>
+                 <string>Filtrar por severidade</string>
                 </property>
                </widget>
               </item>
