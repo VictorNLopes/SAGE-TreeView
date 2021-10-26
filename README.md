@@ -45,7 +45,7 @@ Inno Setup - https://jrsoftware.org/isinfo.php
 
 5. Nas abas Alarmes, Consulta e Filme pode-se escolher um número de atributos e, ao clicar no botão consultar, observar os dados em questão em forma de tabela
 
-    ![passo_5](https://user-images.githubusercontent.com/69806937/138185453-77744e1c-830e-4154-9c6c-54f1e1f890e7.png)
+    ![passo_5](https://user-images.githubusercontent.com/69806937/138928667-2a202296-faae-4290-8952-555a37c2f4f6.png)
 
     1. O intervalo de busca fica logo abaixo das abas
 
